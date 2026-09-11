@@ -1,0 +1,4 @@
+python-telegram-bot[job-queue]==22.8
+requests
+Flask
+psycopg2-binary
